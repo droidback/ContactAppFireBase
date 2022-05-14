@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "580391960249",
+    "project_id": "contactappwithfirebase-d5fd2",
+    "storage_bucket": "contactappwithfirebase-d5fd2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580391960249:android:55829b1cca21c3c2516568",
+        "android_client_info": {
+          "package_name": "uz.gita.contactappfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580391960249-78f9mtiafae4crv1t59u9b1ccmk7j685.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQswl4cqcPvF1mbP27CdoEclcpYKsmRwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "580391960249-78f9mtiafae4crv1t59u9b1ccmk7j685.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
